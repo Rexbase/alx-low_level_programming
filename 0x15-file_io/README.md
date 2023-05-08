@@ -1,5 +1,3 @@
-Here's a restructured version of the text:
-
 # C Programming Project: File I/O
 
 This project involves working with file descriptors and the I/O system calls in C, specifically the `open`, `close`, `read`, and `write` calls, as well as the `O_RDONLY`, `WR_ONLY`, and `O_RDWR` flags to create, open, close, read, write, and set permissions of files in C.
