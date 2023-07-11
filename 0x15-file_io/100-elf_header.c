@@ -2,7 +2,7 @@
 
 /*
  * File: 100-elf_header.c
- * Auth: Etimbuk Essien
+ * Auth: Goodnews Essien
  */
 
 /**
@@ -300,4 +300,3 @@ int main(int __attribute__((__unused__)) argc, char *argv[])
 	close_elf(fd);
 	return (0);
 }
-
